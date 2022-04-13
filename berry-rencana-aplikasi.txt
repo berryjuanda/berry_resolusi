@@ -3,5 +3,6 @@ Rencana Aplikasi Berry
 Membuat aplikasi untuk bank
   * Fitur buka rekening nasabah
   * Fitur transaksi nasabah
+Membuat aplikasi belajar anak tunarungu
 Membuat aplikasi untuk layanan kasir
 membuat aplikasi algoritma
