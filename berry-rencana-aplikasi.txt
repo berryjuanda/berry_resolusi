@@ -1,0 +1,5 @@
+Rencana Aplikasi Berry
+
+Membuat aplikasi untuk bank
+Membuat aplikasi untuk layanan kasir
+membuat aplikasi algoritma
