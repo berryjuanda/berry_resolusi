@@ -7,7 +7,7 @@ Membuat aplikasi belajar anak tunarungu
 Membuat aplikasi untuk layanan kasir
   * Fitur hitung total harga barang
 membuat aplikasi algoritma
+Membuat aplikasi bantuan belajar Android
+  * Fitur belajar android
 Membuat aplikasi bantuan belajar laravel
   * Fitur belajar laravel
-  * Fitur belajar php oop
- 
