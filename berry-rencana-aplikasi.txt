@@ -6,3 +6,7 @@ Membuat aplikasi untuk bank
 Membuat aplikasi belajar anak tunarungu
 Membuat aplikasi untuk layanan kasir
 membuat aplikasi algoritma
+Membuat aplikasi bantuan belajar laravel
+  * Fitur belajar laravel
+  * Fitur belajar php oop
+ 
